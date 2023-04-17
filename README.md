@@ -16,7 +16,7 @@ this is one photo image page which is enhance your background and gives the best
 
 `Assests are Provided!`
 
-![Image-Gallery-](./assets/ss.png)
+![Image-Gallery-](./assets/ss2.png)
 
 ## 🔗 Links
 
